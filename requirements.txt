@@ -4,8 +4,10 @@ loguru
 websockets_proxy
 requests
 websockets
-random
+aiohttp
+uuid
+cloudscraper
 json
 ssl
 time
-uuid
+
